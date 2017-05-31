@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/signinBtn"
+        style="@style/tw__CardInstallButton"
+        android:layout_width="134dp"
+        android:layout_height="52dp"
+        android:layout_marginLeft="125dp"
+        android:layout_marginTop="321dp"
+        android:text="Sign In"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="334dp"
+        android:layout_height="204dp"
+        app:srcCompat="@drawable/infinitylogo"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="81dp"
+        android:layout_marginLeft="25dp"
+        app:layout_constraintLeft_toLeftOf="parent" />
+
+</android.support.constraint.ConstraintLayout>

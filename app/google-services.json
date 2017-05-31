@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "807645810077",
+    "firebase_url": "https://infinitychat-924a2.firebaseio.com",
+    "project_id": "infinitychat-924a2",
+    "storage_bucket": "infinitychat-924a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807645810077:android:96b90f22e9e204bc",
+        "android_client_info": {
+          "package_name": "com.afifrdzf.infinitychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807645810077-enh5fqm6i064o1o9m57idv2hmh6s684m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.afifrdzf.infinitychat",
+            "certificate_hash": "b5fc1fe9a03a2ce88b46bb6e8cfddfe63abf2fbd"
+          }
+        },
+        {
+          "client_id": "807645810077-u8ra43rs93m2t4t5k75j3et2isatuhd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPKRBFwsLSYgDHPqTTZ2hwXxXNRfGIDwQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807645810077-u8ra43rs93m2t4t5k75j3et2isatuhd4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
