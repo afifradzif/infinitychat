@@ -17,6 +17,8 @@ import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.FirebaseAuth;
 
+//this is the screen for chat room
+
 public class HomeScreen extends AppCompatActivity{
 
     private static final int SIGN_IN_REQUEST_CODE = 1;
