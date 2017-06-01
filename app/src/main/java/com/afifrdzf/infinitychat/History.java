@@ -18,10 +18,6 @@ import android.widget.SimpleAdapter;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-/**
- * Created by Afifrdzf on 5/29/2017.
- */
-
 public class History extends AppCompatActivity {
 
     public static final String strMesej = DatabaseHelper.COLUMN_MESSAGE;
