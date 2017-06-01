@@ -123,7 +123,7 @@ public class MainActivity extends AppCompatActivity {
 
         listOfMessages.setAdapter(adapter);
     }
-
+    //This function is for save the chat send to sqlite
     public void fnSave(){
         Runnable run = new Runnable() {
             @Override
