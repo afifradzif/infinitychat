@@ -34,6 +34,7 @@ public class HomeScreen extends AppCompatActivity{
         signIn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                //Application will check whether the current user exist or not
                 if(FirebaseAuth.getInstance().getCurrentUser() == null) {
                     // Start sign in/sign up activity
                     startActivityForResult(
