@@ -39,7 +39,7 @@ b)	Add the SDK
             }
         }
 
-    add the apply plugin line at the bottom of the file to enable the Gradle plugin in Gradle file ( app/build.gradle)
+add the apply plugin line at the bottom of the file to enable the Gradle plugin in Gradle file ( app/build.gradle):
 
         apply plugin: 'com.android.application'
 
