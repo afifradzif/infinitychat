@@ -17,10 +17,6 @@ import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.FirebaseAuth;
 
-/**
- * Created by Afifrdzf on 5/29/2017.
- */
-
 public class HomeScreen extends AppCompatActivity{
 
     private static final int SIGN_IN_REQUEST_CODE = 1;
