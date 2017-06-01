@@ -14,6 +14,8 @@ public class ChatMessage {
     private String messageText;
     private String messageUser;
     private long messageTime;
+    
+    //this is the constructor to set the date of chat
 
     public ChatMessage(String messageText, String messageUser) {
         this.messageText = messageText;
